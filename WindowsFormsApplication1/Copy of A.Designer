@@ -1,0 +1,341 @@
+
+
+        
+        
+        string f = "";
+        string lan;
+        string count;
+
+
+
+        private void btnBS_Click(object sender, EventArgs e)
+        {
+
+            f = "bs";
+
+            btnBS.Enabled = false;
+            btnEcon.Enabled = false;
+            btnAcc.Enabled = false;
+
+
+            
+        }
+
+        private void btnEcon_Click(object sender, EventArgs e)
+        {
+
+            f = "econ";
+
+            btnBS.Enabled = false;
+            btnEcon.Enabled = false;
+            btnAcc.Enabled = false;
+            
+           
+  
+          
+
+            
+        }
+
+        private void btnAcc_Click(object sender, EventArgs e)
+        {
+            f = "acc";
+            btnBS.Enabled = false;
+            btnEcon.Enabled = false;
+            btnAcc.Enabled = false;
+
+          
+            
+        }
+
+        private void btnChk_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                 if (count == "1")
+                { 
+                    btnHome.Enabled = true;
+                    btnHome.Focus();
+                }
+                 else
+                {
+                    btnNH.Enabled = true;
+                    btnNH.Focus();
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Counting error in enable next");
+            }
+            try
+            {
+                if (f == "bs" && lan =="sin")
+                {
+                    txtAnswer.Text = "BS .පලමු පිළිතුර";
+                }
+                
+                
+                else if (f == "bs" && lan =="eng")
+                {
+                    txtAnswer.Text = "BS first answer";
+                }
+
+                else if (f == "econ" && lan == "sin")
+                {
+                    txtAnswer.Text = "Econ දෙවන පිළිතුර";
+                }
+
+                else if (f == "econ" && lan == "eng")
+                {
+                    txtAnswer.Text = "econ 2nd answer";
+                }
+
+                else if (f == "acc" && lan == "sin")
+                {
+                    txtAnswer.Text = "Accounts තෙවන පිළිතුර";
+                }
+
+                else if (f == "acc" && lan == "eng")
+                {
+                    txtAnswer.Text = "Acccounts n2d answer";
+                }
+                else
+                {
+
+                }
+                btnChk.Enabled = false;
+            }
+            catch
+            {   
+                  MessageBox.Show("If error","Exception..!");       
+            }
+
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lan = "sin";
+            btnSin.Enabled = false;
+            btnEng.Enabled = false;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            lan = "eng";
+            btnSin.Enabled = false;
+            btnEng.Enabled = false;
+        }
+
+        private void btnGo_Click(object sender, EventArgs e)
+        {
+            btnChk.Focus();
+            try
+            {
+                if (count == "1")
+                {
+                    btnNH.Enabled = false;
+                    //btnHome.Enabled = true;
+                    btnChk.Enabled = true;
+                }
+            }
+            catch
+            {
+                MessageBox.Show("count error");
+            }
+
+
+            try
+            {
+                if (f == "bs" && lan == "sin")
+                {
+                    panel.Visible = false;
+                    panel2.Visible = true;
+                    
+                    txtQuestion.Clear();
+                    txtQuestion.Text = "BS-පලමු ප්‍රෂ්නය";
+
+                    opt1.Text = "Sin-BS-Answer1";
+                    opt2.Text = "Sin-BS-Answer2";
+                    opt3.Text = "Sin-BS-Answer3";
+                    opt4.Text = "Sin-BS-Answer4";
+
+
+                    
+                }
+               
+                
+                
+                
+                else if (f == "bs" && lan == "eng")
+                {
+                    panel.Visible = false;
+                    panel2.Visible = true;
+
+                    txtQuestion.Clear();
+                    txtQuestion.Text = "BS first question";
+
+                    opt1.Text = "Eng-BS-Answer1";
+                    opt2.Text = "Eng-BS-Answer2";
+                    opt3.Text = "Eng-BS-Answer3";
+                    opt4.Text = "Eng-BS-Answer4";
+                }
+                
+                
+               
+                
+                else if (f == "econ" && lan == "sin")
+                {
+                    panel.Visible = false;
+                    panel2.Visible = true;
+
+                    txtQuestion.Clear();
+                    txtQuestion.Text = "Econ -දෙවන ප්‍රෂ්නය";
+
+                    opt1.Text = "Sin-Econ-Answer1";
+                    opt2.Text = "Sin-Econ-Answer2";
+                    opt3.Text = "Sin-Econ-Answer3";
+                    opt4.Text = "Sin-Econ-Answer4";
+                }
+                
+                
+              
+                
+                
+                else if (f == "econ" && lan == "eng")
+                {
+                    panel.Visible = false;
+                    panel2.Visible = true;
+
+                    txtQuestion.Clear();
+                    txtQuestion.Text = "Econ 2de question";
+
+                    opt1.Text = "Eng-Econ-Answer1";
+                    opt2.Text = "Eng-Econ-Answer2";
+                    opt3.Text = "Eng-Econ-Answer3";
+                    opt4.Text = "Eng-Econ-Answer4";
+                }
+               
+                
+               
+                
+                else if(f == "acc" && lan == "sin")
+                {
+                    panel.Visible= false;
+                    panel2.Visible = true;
+
+                    txtQuestion.Clear();
+                    txtQuestion.Text = "Accounting-තෙවන ප්‍රෂ්නය";
+
+                    opt1.Text = "sin-acc-Answer1";
+                    opt2.Text = "sin-acc-Answer2";
+                    opt3.Text = "sin-acc-Answer3";
+                    opt4.Text = "sin-acc-Answer4";
+                }
+                
+                
+                
+                else if (f == "acc" && lan == "eng")
+                {
+                    panel.Visible = false;
+                    panel2.Visible = true;
+
+                    txtQuestion.Clear();
+                    txtQuestion.Text = "Accounting - 3rd question";
+
+                    opt1.Text = "eng-acc-Answer1";
+                    opt2.Text = "eng-acc-Answer2";
+                    opt3.Text = "eng-acc-Answer3";
+                    opt4.Text = "eng-acc-Answer4";
+                }
+                
+                else
+                {
+                    MessageBox.Show("Please Enter all the inputs", "Data error.!");
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Invalid Input.!", "Validation error.!");
+            }
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void opt4_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void opt2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnNH_Click(object sender, EventArgs e)
+        {
+            count = "1";
+            panel2.Visible = false;
+            panel.Visible = true;
+
+            txtQuestion.Clear();
+            txtAnswer.Clear();
+            
+            opt1.Text = "null";
+            opt2.Text = "null";
+            opt3.Text = "null";
+            opt4.Text = "null";
+
+
+            btnSin.Enabled = true;
+            btnEng.Enabled = true;
+
+           
+            try
+            {
+                if(f == "bs")
+                {
+                    btnEcon.Enabled = true;
+                    btnAcc.Enabled = true;
+                }
+                else if (f == "econ")
+                {
+                    btnBS.Enabled = true;
+                    btnAcc.Enabled = true;
+                }
+                else if (f == "acc")
+                {
+                    btnBS.Enabled = true;
+                    btnEcon.Enabled = true;
+                }
+                else
+                {
+                    MessageBox.Show("error.!");
+                }
+            }
+            catch
+            {
+
+            }
+            f = "";
+            lan = "";
+        }
+
+        private void btnHome_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    

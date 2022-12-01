@@ -1,0 +1,410 @@
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Blacklist\Desktop\commerce\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\New folder (2)\New folder\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\New folder (2)\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\New folder (2)\5\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.8\8.2\v.6\2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.9\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.10 (timer)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.11 (timer+life line fix)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.13(permenent forms)\ttry\v.12(fix forms)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.14(design)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.15(timer fix)\v.14(Question added)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.16(questions chages)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.17(50 life line fixed in sinhala)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.19(braniacs logo )\v.18(logo changed)\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.20(form back )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\SAMPLE\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\SAMPLE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\SAMPLE\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmA.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmB.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmH.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmI.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmG.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmD.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmE.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmF.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmC.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmHome.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\shif_Final\luka 2015 final\v.21(acc eng added )\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
